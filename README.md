@@ -8,7 +8,8 @@ Este é um **protótipo** desenvolvido como parte dos estudos no curso de **Jogo
 O projeto integra **Realidade Aumentada (AR)** e **gamificação**, buscando unir o mundo físico e o digital de forma interativa.
 
 O aplicativo foi desenvolvido no **Unity**, permitindo a leitura de **QR Codes**.  
-Ao escanear um QR Code, o usuário é direcionado para esta página interativa feita com **HTML, CSS e JavaScript**.
+Ao escanear um QR Code, o usuário é direcionado para esta página interativa feita com **HTML, CSS e JavaScript**. <BR>
+LINK DO APK : https://drive.google.com/file/d/1UY7Ux2l9WcQPmYncUgGl8J_cnq56OmJc/view?usp=drive_link
 
 ---
 
@@ -55,6 +56,8 @@ Explorar o potencial da **Realidade Aumentada** aplicada à gamificação, crian
 ## 📖 About the Project
 This is a **prototype** developed as part of the **Game Development** course at **SENAI Paulo Antônio Skaf**.  
 The project integrates **Augmented Reality (AR)** and **gamification**, aiming to combine the physical and digital worlds interactively.
+<BR>
+APK LINK : https://drive.google.com/file/d/1UY7Ux2l9WcQPmYncUgGl8J_cnq56OmJc/view?usp=drive_link
 
 The application was built in **Unity**, enabling **QR Code** scanning.  
 When scanning a QR Code, the user is redirected to this interactive page made with **HTML, CSS, and JavaScript**.
