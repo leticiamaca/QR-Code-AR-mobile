@@ -3,7 +3,7 @@ Testing QR Code AR Mobile
 
 # 📌 Projeto AR Challenge / Desafio AR
 
-![Screenshot do Projeto](coloque-aqui-o-link-ou-caminho-da-imagem.png)
+[](https://github.com/leticiamaca/QR-Code-AR-mobile/blob/main/AR%20challenges.png)
 
 ## 📖 Sobre o Projeto
 Este é um **protótipo** desenvolvido como parte dos estudos no curso de **Jogos Digitais** do **SENAI Paulo Antônio Skaf**.  
