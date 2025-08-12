@@ -85,8 +85,7 @@ To explore the potential of **Augmented Reality** applied to gamification, creat
 ---
 
 ## 📸 Screenshots
-> Replace the link below with the path or URL of your image.
-![Project Screenshot](place-your-image-link-here.png)
+![Project Screenshot](https://github.com/leticiamaca/QR-Code-AR-mobile/blob/main/Unity-process.png)
 
 ---
 
