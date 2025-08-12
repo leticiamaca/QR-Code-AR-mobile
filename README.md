@@ -3,8 +3,6 @@ Testing QR Code AR Mobile
 
 # 📌 Projeto AR Challenge / Desafio AR
 
-[](https://github.com/leticiamaca/QR-Code-AR-mobile/blob/main/AR%20challenges.png)
-
 ## 📖 Sobre o Projeto
 Este é um **protótipo** desenvolvido como parte dos estudos no curso de **Jogos Digitais** do **SENAI Paulo Antônio Skaf**.  
 O projeto integra **Realidade Aumentada (AR)** e **gamificação**, buscando unir o mundo físico e o digital de forma interativa.
@@ -38,8 +36,7 @@ Explorar o potencial da **Realidade Aumentada** aplicada à gamificação, crian
 ---
 
 ## 📸 Capturas de Tela
-> Substitua o link abaixo pelo caminho ou URL da sua imagem.
-![Screenshot do Projeto](coloque-aqui-o-link-ou-caminho-da-imagem.png)
+![Screenshot do Projeto](https://github.com/leticiamaca/QR-Code-AR-mobile/blob/main/AR%20challenges.png)
 
 ---
 
@@ -53,7 +50,7 @@ Explorar o potencial da **Realidade Aumentada** aplicada à gamificação, crian
 
 # 📌 AR Challenge Project
 
-![Project Screenshot](place-your-image-link-here.png)
+![Project Screenshot](https://github.com/leticiamaca/QR-Code-AR-mobile/blob/main/AR%20challenges.png)
 
 ## 📖 About the Project
 This is a **prototype** developed as part of the **Game Development** course at **SENAI Paulo Antônio Skaf**.  
